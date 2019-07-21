@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/uberbot.py
-	```
+```
+src/uberbot.py
+```
 
 ## Authors
 
